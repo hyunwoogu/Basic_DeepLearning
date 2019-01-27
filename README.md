@@ -1,6 +1,6 @@
 # Basic Deep Learning
 
-Study notes on the basic-level deep learning during 2018, Jan-Feb @ MARG.
+Study notes on the basic-level deep learning during 2018, Jan-Feb @MARG.
 
 Codes are mainly owed to [TensorFlow-Tutorials](github.com/golbin/TensorFlow-Tutorials). 
 
